@@ -2,12 +2,12 @@ ul > li{
     list-style-type: none;
 }
 header{
-    background-color: navy;
+    background-color: navy; /* color changed */
     padding: 20px;
 }
 ul{
     display: flex;
-    background-color: greenyellow;
+    background-color: rgb(190, 22, 22);
     color: white;
     margin-right: 10px;
 
